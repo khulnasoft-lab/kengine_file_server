@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: khulnasoft/kengine_file_server:latest
+          tags: khulnasoft/kengine_file_server_ce:latest
